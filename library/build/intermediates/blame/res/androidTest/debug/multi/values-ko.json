@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "D:\\dima\\IdeaProjec(1)\\promote-master\\promote-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "D:\\dima\\IdeaProjec(1)\\promote-master\\promote-master\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 52,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "D:\\dima\\IdeaProjec(1)\\promote-master\\promote-master\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 54,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "D:\\dima\\IdeaProjec(1)\\promote-master\\promote-master\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 54,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 96,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "D:\\dima\\IdeaProjec(1)\\promote-master\\promote-master\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 96,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 52,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "D:\\dima\\IdeaProjec(1)\\promote-master\\promote-master\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 52,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 49,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "D:\\dima\\IdeaProjec(1)\\promote-master\\promote-master\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 49,
+                        "endOffset": 410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 84,
+                    "endOffset": 495
+                },
+                "from": {
+                    "file": "D:\\dima\\IdeaProjec(1)\\promote-master\\promote-master\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 84,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 500,
+                    "endColumn": 62,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "D:\\dima\\IdeaProjec(1)\\promote-master\\promote-master\\library\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 62,
+                        "endOffset": 558
+                    }
+                }
+            }
+        ]
+    }
+]
